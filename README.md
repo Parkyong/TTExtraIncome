@@ -27,3 +27,4 @@ kitty2
 kitty3
 kitty4
 kitty6
+ceshi-4.0

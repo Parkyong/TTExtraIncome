@@ -26,7 +26,4 @@ kitty1
 kitty2
 kitty3
 kitty4
-kitty5
 kitty6
-
-
